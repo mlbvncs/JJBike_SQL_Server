@@ -1,0 +1,5 @@
+# Cache e configurações locais do Visual Studio
+.vs/
+bin/
+obj/
+*.dwproj.user
